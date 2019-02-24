@@ -5,4 +5,5 @@
 * [Ionic 开发环境搭建](docs/ide.md)
 * [第一个Ionic应用](docs/hello-world.md)
 * [ion-slides 实现水平滑动效果](docs/ion-slides.md)
+* [ion-slides 实现垂直滑动效果](docs/ion-slides-vertical.md)
 * To be continued ...未完待续...
