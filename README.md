@@ -37,6 +37,7 @@ Ionic 与 Angular 有着一流的集成。如果对Angular感兴趣，可以参�
 
 * `hello-world`：第一个Ionic应用。
 * `ion-slides`：实现水平滑动效果。
+* `ion-slides-vertical`：实现垂直滑动效果。
 
 ## Issue 意见、建议
 
