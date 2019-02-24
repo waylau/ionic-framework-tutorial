@@ -20,7 +20,7 @@ Ionic 与 Angular 有着一流的集成。如果对Angular感兴趣，可以参�
 * Visual Studio Code 1.31.1 
 * Node.js 11.10.0
 * npm 6.7.0
-* Ionic Framework 6.1.5
+* Ionic Framework 4.10.3
 
  
 ## Get Started 如何开始阅读
