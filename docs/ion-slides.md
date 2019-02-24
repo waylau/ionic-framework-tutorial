@@ -1,4 +1,4 @@
-# ion-slides 实现滑动效果
+# ion-slides 实现水平滑动效果
 
 ion-slides 实现滑动主要基于[Swiper](http://idangero.us/swiper)来实现的。
 创建ion-slides应用：

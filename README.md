@@ -33,7 +33,7 @@ Ionic 与 Angular 有着一流的集成。如果对Angular感兴趣，可以参�
 
 ## Code 源码
 
-书中所有示例源码，移步至<https://github.com/waylau/ionic-framework-samples>  `samples` 目录下：
+书中所有示例源码，移步至<https://github.com/waylau/ionic-framework-tutorial>  `samples` 目录下：
 
 * `hello-world`：第一个Ionic应用。
 
