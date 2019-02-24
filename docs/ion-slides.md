@@ -1,6 +1,11 @@
 # ion-slides 实现水平滑动效果
 
-ion-slides 实现滑动主要基于[Swiper](http://idangero.us/swiper)来实现的。
+ion-slides 实现滑动主要基于[Swiper](http://idangero.us/swiper)来实现滑动效果。
+
+本节将演示，如何来实现水平滑动的效果。
+
+## 初始化应用
+
 创建ion-slides应用：
 
 ```
