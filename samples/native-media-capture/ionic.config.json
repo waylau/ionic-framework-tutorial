@@ -1,0 +1,7 @@
+{
+  "name": "native-media-capture",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
