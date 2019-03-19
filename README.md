@@ -17,10 +17,29 @@ Ionic 与 Angular 有着一流的集成。如果对Angular感兴趣，可以参�
 
 本书涉及的相关技术及版本如下。
 
-* Visual Studio Code 1.31.1 
-* Node.js 11.10.0
-* npm 6.7.0
-* Ionic Framework 4.10.3
+```
+Ionic:
+
+   ionic (Ionic CLI)             : 4.12.0 (C:\Users\User\AppData\Roaming\npm\node_modules\ionic)
+   Ionic Framework               : @ionic/angular 4.1.1
+   @angular-devkit/build-angular : 0.13.6
+   @angular-devkit/schematics    : 7.2.4
+   @angular/cli                  : 7.3.6
+   @ionic/angular-toolkit        : 1.4.1
+
+Cordova:
+
+   cordova (Cordova CLI) : 8.1.2 (cordova-lib@8.1.1)
+   Cordova Platforms     : not available
+   Cordova Plugins       : not available
+
+System:
+
+   Android SDK Tools : 28.1.10 (C:\Users\User\AppData\Local\Android\Sdk)
+   NodeJS            : v11.10.0 (C:\Program Files\nodejs\node.exe)
+   npm               : 6.7.0
+   OS                : Windows 10
+```
 
  
 ## Get Started 如何开始阅读

@@ -7,7 +7,7 @@
 * Gradle
 * Android Studio
 
-其中，Java环境搭建，请参阅《Java 编程要点》（<https://github.com/waylau/essential-java>）; Gradle 环境搭建，请参阅《Gradle 2 用户指南》（<https://github.com/waylau/Gradle-2-User-Guide>）。
+其中，Java环境搭建，请参阅《Java 编程要点》（<https://github.com/waylau/essential-java>），这里需要注意的是，只能使用JDK 8。 Gradle 环境搭建，请参阅《Gradle 2 用户指南》（<https://github.com/waylau/Gradle-2-User-Guide>）。
 
 以下，主要介绍 Android Studio 的安装。
 
