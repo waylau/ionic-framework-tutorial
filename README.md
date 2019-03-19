@@ -57,7 +57,7 @@ System:
 * `hello-world`：第一个Ionic应用。
 * `ion-slides`：实现水平滑动效果。
 * `ion-slides-vertical`：实现垂直滑动效果。
-
+* `native-media-capture`：实现录音、拍照、录像。
 ## Issue 意见、建议
 
 如有勘误、意见或建议欢迎拍砖 <https://github.com/waylau/ionic-framework-tutorial/issues>
