@@ -8,4 +8,5 @@
 * [ion-slides 实现垂直滑动效果](docs/ion-slides-vertical.md)
 * [Android 开发环境搭建](docs/ionic-android.md)
 * [录音、拍照、录像](docs/native-media-capture.md)
+* [播放视频](docs/native-video-player.md)
 * To be continued ...未完待续...

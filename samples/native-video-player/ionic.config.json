@@ -1,0 +1,7 @@
+{
+  "name": "native-video-player",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

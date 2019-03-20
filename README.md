@@ -54,10 +54,12 @@ System:
 
 书中所有示例源码，移步至<https://github.com/waylau/ionic-framework-tutorial>  `samples` 目录下：
 
-* `hello-world`：第一个Ionic应用。
-* `ion-slides`：实现水平滑动效果。
-* `ion-slides-vertical`：实现垂直滑动效果。
-* `native-media-capture`：实现录音、拍照、录像。
+* [hello-world](samples/hello-world)：第一个Ionic应用。
+* [ion-slides](samples/ion-slides)：实现水平滑动效果。
+* [ion-slides-vertical](samples/ion-slides-vertical)：实现垂直滑动效果。
+* [native-media-capture](samples/native-media-capture)：实现录音、拍照、录像。
+* [native-video-player](samples/native-video-player)：播放视频
+
 ## Issue 意见、建议
 
 如有勘误、意见或建议欢迎拍砖 <https://github.com/waylau/ionic-framework-tutorial/issues>

@@ -1,6 +1,6 @@
 # 录音、拍照、录像
 
-借助  `cordova-plugin-media-capture` 插件，可以实现利用移动设备来录音、拍照、录像。
+借助 `cordova-plugin-media-capture` 插件，可以实现利用移动设备来录音、拍照、录像。
 
 插件介绍见<https://github.com/apache/cordova-plugin-media-capture>。
 
